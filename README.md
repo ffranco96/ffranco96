@@ -1,6 +1,6 @@
 ### Hello 👋
 
-🧑‍🎓 As a good student, im currently looking forward to improving my actual knowledge about programming and technologhy in general. I'm expecting to improve mi skills and learning new techonologies/programming languages, trying to understand their implementation on the actual market.
+🧑‍🎓 My name is Franco macén.As a good student, im currently looking forward to improving my actual knowledge about programming and technologhy in general. I'm expecting to improve mi skills and learning new techonologies/programming languages, trying to understand their implementation on the actual market.
 
 💻 My strong programming languages are C, C++ and Java. Some knowledge on HTML (frontend), VHDL (hardware description language), too.
 
